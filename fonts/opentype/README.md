@@ -3,6 +3,7 @@
 ## Bulgarian
 
 - [Common Serif](https://github.com/StefanPeev/Common-Serif)
+- [Ezerovo](https://github.com/StefanPeev/Ezerovo)
 - [Libra Sans Modern](https://localfonts.eu/freefonts/bulgarian-cyrillic/libra-sans-modern/)
 - [Libra Serif Modern](https://localfonts.eu/shop/latin-script/libra-serif-modern/)
 - [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
