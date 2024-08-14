@@ -1,5 +1,5 @@
 % xminimal.cls
-% Copyright 2024 parvatarohin <parvatarohin@gmail.com>
+% Copyright 2024 mnmlivnx <mnmlivn@pm.me>
 %
 % This work may be distributed and/or modified under the
 % conditions of the LaTeX Project Public License, either version 1.3
@@ -10,12 +10,12 @@
 % version 2008 or later.
 %
 % This work has the LPPL maintenance status `maintained'.
-% The Current Maintainer of this work is @parvatarohin.
+% The Current Maintainer of this work is @mnmlivnx.
 % This work consists of the files xminimal.dtx and xminimal.ins
 % and the derived file xminimal.cls.
 % Please report bugs and other problems as well as suggestions for improvements
-% by using the issue tracker on GitHub: https://github.com/parvatarohin/texmf/issues
-% or sending an email to <parvatarohin@gmail.com>.
+% by using the issue tracker on GitHub: https://github.com/mnmlivnx/texmf/issues
+% or sending an email to <mnmlivn@pm.me>.
 
 \NeedsTeXFormat{LaTeX2e}[2022-06-01]
 \ProvidesClass{xminimal}[2024-03-01 v1.00 Minimalist XeLaTeX article class]
