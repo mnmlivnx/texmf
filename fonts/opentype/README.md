@@ -2,6 +2,7 @@
 
 ## Bulgarian
 
+- [Acari Sans](https://github.com/StefanPeev/acari-sans)
 - [Cascade](https://github.com/StefanPeev/Scada-Cascade)
 - [Common Serif](https://github.com/StefanPeev/Common-Serif)
 - [Ezerovo](https://github.com/StefanPeev/Ezerovo)
