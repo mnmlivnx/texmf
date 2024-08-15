@@ -2,6 +2,7 @@
 
 ## Bulgarian
 
+- [Cascade](https://github.com/StefanPeev/Scada-Cascade)
 - [Common Serif](https://github.com/StefanPeev/Common-Serif)
 - [Ezerovo](https://github.com/StefanPeev/Ezerovo)
 - [Libra Sans Modern](https://localfonts.eu/freefonts/bulgarian-cyrillic/libra-sans-modern/)
