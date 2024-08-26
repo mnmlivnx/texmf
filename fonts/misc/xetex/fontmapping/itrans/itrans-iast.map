@@ -1,10 +1,10 @@
-﻿; This file was created by <parvatarohin> using TECkitMappingEditorU v5.0.0.0 on 22.02.2024.
+﻿; This file was created by <mnmlivnx> using TECkitMappingEditorU v5.0.0.0 on 22.02.2024.
 
 LHSName                 "ITRANS"
 RHSName                 "Unicode IAST"
 LHSDescription          "ITRANS input method for Unicode Roman (IAST)"
 Version                 "1.0"
-Contact                 "mailto:parvatarohin@outlook.com"
+Contact                 "mailto:mnmlivn@pm.me"
 Copyright               "LaTeX Project Public License"
 
 Define zwj U+200D

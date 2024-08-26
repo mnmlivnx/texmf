@@ -7,4 +7,4 @@
 
 ## Fontmapping
 
-- [XeTeX Fontmappings](/fonts/misc/xetex/fontmapping/README.md)
+- [XeLaTeX Fontmappings](/fonts/misc/xetex/fontmapping/README.md)
