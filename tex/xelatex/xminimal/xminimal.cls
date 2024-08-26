@@ -99,13 +99,13 @@
 \RequirePackage{fontspec}
 \defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
 
-\setmainfont{brill}[%
+\setmainfont{gentium-bookplus}[%
   Extension      = .ttf,
-  UprightFont    = *-roman,
+  UprightFont    = *-regular,
   ItalicFont     = *-italic,
   BoldFont       = *-bold,
   BoldItalicFont = *-bolditalic,
-  Numbers        = Lining
+  %Numbers        = Lining
 ]
 
 \setsansfont{libertinus-sans}[%
@@ -144,7 +144,7 @@
 
 \newcommand{\dn}[1]{\textsanskrit{\devanagarifont#1}}
 \newcommand{\sa}[1]{\textsanskrit{\sanskritfont#1}}
-\newcommand{\tl}[1]{\emph{\textsanskrit\sanskritfont#1}}
+\newcommand{\tl}[1]{\textsanskrit{\emph{\sanskritfont#1}}}
 
 \newcommand{\danda}{{\dn।}\@\xspace}
 \newcommand{\ddanda}{{\dn॥}\@\xspace}
