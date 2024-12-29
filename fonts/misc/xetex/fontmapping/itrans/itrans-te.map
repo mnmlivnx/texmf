@@ -1,4 +1,4 @@
-﻿; This file was created by <mnmlivnx> using TECkitMappingEditorU v5.0.0.0 on 26.08.2024.
+﻿; This file was created by <mnmlivnx> using TECkitMappingEditorU v5.0.0.0 on 29.12.2024.
 
 ; TECkit mapping for ITRANS input scheme for writing Unicode Telugu (0C00-0C7F)
 ; by Eknath <eknath2k@gmail.com>, with help from Shrisha Rao <shrao@nyx.net>
@@ -6,7 +6,7 @@
 ;
 ; Updated 2014-09-01
 
-LHSName "itrans-te"
+LHSName "ITRANS-TE"
 RHSName "Unicode"
 LHSDescription "ITRANS input method for Unicode Telugu"
 Version "1.00"
@@ -64,7 +64,7 @@ Define Q U+0051    ;;; eknath
 Define Z U+005A    ;;; eknath
 
 ;;;;; Define anudatta U+002D	; -  allow -
-;;;;; Define svarita U+0021	; !  allow !
+;;;;; Define svarita U+0021	  ; !  allow !
 
 Define tlde    U+007E
 Define cret    U+005E
@@ -113,7 +113,6 @@ Define aimatra	U+0C48
 Define omatra	  U+0C4A
 Define Omatra	  U+0C4B
 Define aumatra	U+0C4C
-
 
 Define ka	  U+0C15
 Define kha	U+0C16
