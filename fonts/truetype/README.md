@@ -11,7 +11,6 @@
 
 ## IAST
 
-- [Brill](https://brill.com/page/419386)
 - [Gentium](https://software.sil.org/gentium/)
 - [Gandhari Unicode](https://github.com/gandhariunicode/)
 - [URW Palladio ITU](http://www.sanskritweb.net/fonts/)

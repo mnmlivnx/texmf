@@ -4,6 +4,7 @@
 
 - [Acari Sans](https://github.com/StefanPeev/acari-sans)
 - [Bertioga Sans](https://github.com/cssobral2013/bertioga-sans)
+- [Brill](https://brill.com/page/419386)
 - [Cascade](https://github.com/StefanPeev/Scada-Cascade)
 - [Common Serif](https://github.com/StefanPeev/Common-Serif)
 - [Ezerovo](https://github.com/StefanPeev/Ezerovo)
